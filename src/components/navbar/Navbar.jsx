@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Suspense } from "react";
 import NavbarItem from "../navbarItem/NavbarItem";
 
 export default function Navbar() {
