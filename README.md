@@ -5,7 +5,7 @@ To download and run the IMDb-Clone repository locally, follow these steps:
 
 # Clone the Repository: You can clone the repository by using the following command:
 
-git clone https://github.com/buzeamihai/imdb-clone
+git clone https://github.com/RajMahammadAli/IMDb-Clone.git
 Navigate to the Project Directory: Move to the project directory by running:
 
 cd imdb-clone
