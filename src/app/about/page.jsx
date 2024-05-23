@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 // import teamWork from "./team_work.svg";
@@ -48,7 +49,12 @@ export default function page() {
         autem delectus distinctio nobis. Quaerat, a quibusdam.
       </p>
       <div className="w-full flex justify-end">
-        <img width="600px" src="/team_work.svg" alt="about us image" />
+        <Image
+          width="600px"
+          height="auto"
+          src="/team_work.svg"
+          alt="about us image"
+        ></Image>
       </div>
     </div>
   );
